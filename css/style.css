@@ -267,7 +267,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #ffffff;
+  color: #000000;
 }
 
 .slider_section .detail-box h1 {
@@ -372,6 +372,7 @@ a:focus {
 
 .slider_bg_box img {
   height: 100%;
+  width: 100%;
 }
 
 .service_section {
@@ -579,7 +580,7 @@ a:focus {
 }
 
 .product_section .product_container .box .box-content .img-box {
-  margin: 45px 0;
+  margin: 20px 0;
 }
 
 .product_section .product_container .box .box-content .img-box img {
